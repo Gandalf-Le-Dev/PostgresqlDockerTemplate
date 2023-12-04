@@ -8,7 +8,9 @@
       "MaintenanceDB": "postgres",
       "Username": "user",
       "PassFile": "/var/lib/pgadmin/storage/pgadmin_pgadmin.com/pgpass",
-      "SSLMode": "prefer"
+      "SSLMode": "prefer",
+      "BGColor": "#ff9900",
+      "FGColor": "#000000",
     }
   }
 }
